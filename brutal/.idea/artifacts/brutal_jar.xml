@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="brutal:jar">
+    <output-path>$PROJECT_DIR$/</output-path>
+    <root id="archive" name="brutal.jar">
+      <element id="module-output" name="brutal" />
+    </root>
+  </artifact>
+</component>

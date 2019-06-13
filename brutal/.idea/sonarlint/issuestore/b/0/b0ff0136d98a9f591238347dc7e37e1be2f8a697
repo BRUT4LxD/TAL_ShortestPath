@@ -1,0 +1,14 @@
+
+Csquid:S3010""Remove this assignment of "start".(°é«Ãýÿÿÿÿ8Ë¾Ê¸º,
+Asquid:S3010" Remove this assignment of "end".(³ï‹»ýÿÿÿÿ8Ë¾Ê¸º,
+8squid:S1220""Move this file to a named package.8ãÔŠ¸º,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(…€õ8Ë¾Ê¸º,
+Zsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(‘¸Øö8Ë¾Ê¸º,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ãÔŠ¸º,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Î»ŽÖÿÿÿÿÿ8Ë¾Ê¸º,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÍÎÉ 8Ë¾Ê¸º,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(­Ù—ƒÿÿÿÿÿ8Ë¾Ê¸º,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‘¸Øö8íšÃ¹º,
